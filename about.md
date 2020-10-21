@@ -3,6 +3,8 @@ title: "About"
 layout: about
 ---
 
+기록하기를 좋아하며 
+
 Present
 - 데잇걸즈4기
   - 여성 데이터분석가 양성 프로그램
