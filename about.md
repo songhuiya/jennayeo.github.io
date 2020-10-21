@@ -6,9 +6,9 @@ layout: about
 Education
 
 - Michigan State University'19 - Michigan, USA 
-  Bachelor of Arts in Hospitality Business
+  - Bachelor of Arts in Hospitality Business
 - Kents Hill School'15 - Maine, USA
-  Highschool Diploma
+  - Highschool Diploma
 
 
 Work Experience
