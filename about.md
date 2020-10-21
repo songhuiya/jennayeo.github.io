@@ -5,18 +5,20 @@ layout: about
 
 Education
 
-- Michigan State University'19 - Michigan, USA 
-  - Bachelor of Arts in Hospitality Business
-- Kents Hill School'15 - Maine, USA
-  - Highschool Diploma
+- Bachelor of Arts in Hospitality Business
+  - Michigan State University'19 - Michigan, USA
+- Highschool Diploma
+  - Kents Hill School'15 - Maine, USA
 
 
 Work Experience
-
-2018.09 - 2019.05
-Room Sales & Reservation - Candlewood Suites by Intercontinental Hotel Group - Michigan, USA
-2019.07 - 2019.10
-Convention Coordinator - Bexco - Busan, South Korea 
+ 
+- Room Sales & Reservation
+  - 2018.09 - 2019.05
+  - Candlewood Suites by Intercontinental Hotel Group, Michigan, USA
+- Convention Coordinator 
+  - 2019.07 - 2019.10
+  - Bexco - Busan, South Korea 
 
 Currently
 
