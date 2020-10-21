@@ -1,7 +1,7 @@
 ---
-driveId:
+youtubeId: KmC7HQlBiaw
 ---
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include youtubePlayer.html id=page.youtubeId %}
 - Filmed with Gopro hero 6
 - Edited with Final Cut Pro
