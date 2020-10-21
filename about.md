@@ -13,12 +13,12 @@ Education
 
 Work Experience
  
-- Room Sales & Reservation
-  - 2018.09 - 2019.05
-  - Candlewood Suites by Intercontinental Hotel Group, Michigan, USA
 - Convention Coordinator 
   - 2019.07 - 2019.10
   - Bexco - Busan, South Korea 
+- Room Sales & Reservation
+  - 2018.09 - 2019.05
+  - Candlewood Suites by Intercontinental Hotel Group, Michigan, USA
 
 Currently
 
