@@ -3,6 +3,29 @@ title: "About"
 layout: about
 ---
 
+Education
+
+Michigan State University'19 - Michigan, USA 
+Bachelor of Arts in Hospitality Business
+
+Kents Hill School'15 - Maine, USA
+Highschool Diploma
+
+
+Work Experience
+
+2018.09 - 2019.05
+Room Sales & Reservation - Candlewood Suites by Intercontinental Hotel Group - Michigan, USA
+2019.07 - 2019.10
+Convention Coordinator - Bexco - Busan, South Korea 
+
+Currently
+
+Jenna is participating in Data.IT.Girls, a program raising female expert in Data and IT (specifically data analysis) in Seoul, Korea.
+She is interested in Travel and Hotel industry as she can continue from her degree.
+현재 데잇걸즈4기에 소속하여 데이터분석 스킬을 기르고 있는 중입니다.
+여행관련 채널 데이터 분석으로 경험을 쌓아 추후 OTA, 여행관련 IT기업과 함께 성장하고 싶습니다.
+
 Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
 - Clean responsive design with [six customizable skins](#skin)
