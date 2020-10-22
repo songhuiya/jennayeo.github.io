@@ -3,20 +3,21 @@ title: "About"
 layout: about
 ---
 
-기록하기를 좋아하며 
+현재는 [데잇걸즈4기](https://brunch.co.kr/@dataitgirls2018),여성 데이터분석가 양성 프로그램에 참여하며 데이터를 활용하여 경쟁력을 키우기 위해 도전 중입니다.
 
-Present
-- 데잇걸즈4기
-  - 여성 데이터분석가 양성 프로그램
+
 
 Tech Skills
 - C언어, Python, SQL, HTML/CSS/JS
+
+
 
 Education
 - Bachelor of Arts in Hospitality Business
   - Michigan State University'19 - Michigan, USA
 - Highschool Diploma
   - Kents Hill School'15 - Maine, USA
+
 
 
 Work Experience
@@ -27,8 +28,8 @@ Work Experience
   - 2018.09 - 2019.05
   - Candlewood Suites by Intercontinental Hotel Group, Michigan, USA
 
-Currently
-Jenna is participating in Data.IT.Girls, a program raising female expert in Data and IT (specifically data analysis) in Seoul, Korea.
-She is interested in Travel and Hotel industry as she can continue from her degree.
-현재 데잇걸즈4기에 소속하여 데이터분석 스킬을 기르고 있는 중입니다.
-여행관련 채널 데이터 분석으로 경험을 쌓아 추후 OTA, 여행관련 IT기업과 함께 성장하고 싶습니다.
+
+
+이런사람이에요
+- 도전을 좋아합니다. 도전하며 한단계 한단계 성장하는 순간을 즐기는 레드불같은 사람입니다.
+- 기록을 즐겨하고 중요하게 생각합니다. 일상을 글이나 영상으로 기록해두는 습관이 있습니다.
