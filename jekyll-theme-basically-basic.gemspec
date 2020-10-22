@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version                 = "1.4.4"
   spec.authors                 = ["Michael Rose"]
 
-  spec.summary                 = %q{Your new Jekyll default theme.}
+  spec.summary                 = %q{Jiyoung Yeo.}
   spec.homepage                = "https://github.com/mmistakes/jekyll-theme-basically-basic"
   spec.license                 = "MIT"
 
