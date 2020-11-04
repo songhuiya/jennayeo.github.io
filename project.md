@@ -1,6 +1,7 @@
 ---
 title: "Project"
 layout: project
+picture: assets/Screen Shot 2020-11-05 at 1.59.10 AM.png
 ---
 
 [MBTI&Dating App](https://drive.google.com/file/d/1iwn1vKOjDvAKSP-ypl8g6pnR9nB-Kcuc/view?usp=sharing)
