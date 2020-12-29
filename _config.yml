@@ -14,8 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-name: Jiyoung Jenna Yeo
-title: null
+title: Jiyoung Jenna Yeo
 email: jiyoung.jenna.yea@gmail.com
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
