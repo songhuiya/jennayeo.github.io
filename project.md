@@ -1,14 +1,12 @@
 ---
 title: "Project"
 layout: project
-picture: assets/Screen Shot 2020-11-05 at 1.59.10 AM.png
 ---
 
-[MBTI&Dating App](https://drive.google.com/file/d/1iwn1vKOjDvAKSP-ypl8g6pnR9nB-Kcuc/view?usp=sharing)
+[MBTI를 활용한 솔로 탈출 대작전](https://www.notion.so/MBTI-f539ae02b77848e1983b6307edba6c60)
 - 8월 ~ 9월, 2020년
-- MBTI & 데이팅 어플의 상관관계를 분석한 프로젝트이며 '초심자의 맨땅에 헤딩하기'컨셉으로 데이터야 놀자 2020에서 발표되었습니다.
-picture: assets/Screen Shot 2020-11-05 at 1.59.10 AM.png
+- MBTI & 소개팅 어플의 상관관계를 분석한 프로젝트이며 '초심자의 맨땅에 헤딩하기'컨셉으로 데이터야 놀자 2020에서 발표되었습니다.
 
-[코로나19는 주린이의 선택을 어떻게 바꿀까?] -> 추후 수정 예정
-- 9월 ~ 10월, 2020년
-- 코로나19 주식의 연관성을 분석해본 프로젝트입니다.
+[개인 기부 플랫폼, 성공적으로 활용하기](https://www.notion.so/237ef963b0c5469389e2b64e02e13882)
+- 11월 ~ 12월, 2020년
+- 개인 기부 플랫폼인 ‘고펀드미’를 성공적으로 활용할 수 있는 요소가 무엇일지 분석해보았습니다. 데잇걸즈 4기 [데모데이](https://m.etnews.com/20201208000064)에서 발표자로 약 90명의 청중들을 상대로 전달한 경험이있습니다. 
