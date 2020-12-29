@@ -5,14 +5,14 @@ layout: about
 
 
 
-Education
-- DATA.IT.GIRLS([데잇걸즈](https://brunch.co.kr/@dataitgirls2018)) 4기
-  - 07 - 12, 2020
-  - 한국정보화진흥원 주관, 데이터분석가 양성 프로그램
-- Bachelor of Arts in Hospitality Business
-  - Michigan State University'19 - Michigan, USA
-- Highschool Diploma
-  - Kents Hill School'15 - Maine, USA
+- Education
+  - DATA.IT.GIRLS([데잇걸즈](https://brunch.co.kr/@dataitgirls2018)) 4기
+    - 07 - 12, 2020
+    - 한국정보화진흥원 주관, 데이터분석가 양성 프로그램
+  - Bachelor of Arts in Hospitality Business
+    - Michigan State University'19 - Michigan, USA
+  - Highschool Diploma
+    - Kents Hill School'15 - Maine, USA
 
 
 
