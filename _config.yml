@@ -16,7 +16,7 @@
 lang: en-US
 title: Jiyoung Jenna Yeo
 email: jiyoung.jenna.yea@gmail.com
-description:
+description: False
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
