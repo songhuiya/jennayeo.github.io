@@ -1,4 +1,4 @@
 ---
 layout: home
-image: /assets/banner.JPG
+image: /assets/banner.jpg
 ---
